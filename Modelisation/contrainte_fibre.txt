@@ -1,0 +1,1100 @@
+Contraintes pour l'élément 0:
+Sigma_x = 6.28612e-310, Sigma_y = -409.048, Tau_xy = 178.346
+Contraintes pour l'élément 1:
+Sigma_x = 5.48281e-310, Sigma_y = 1713.02, Tau_xy = -285.724
+Contraintes pour l'élément 2:
+Sigma_x = 5.48281e-310, Sigma_y = -394.212, Tau_xy = 147.829
+Contraintes pour l'élément 3:
+Sigma_x = 5.48281e-310, Sigma_y = 53.3275, Tau_xy = -282.415
+Contraintes pour l'élément 4:
+Sigma_x = 7.18911e-310, Sigma_y = -287.554, Tau_xy = 1486.2
+Contraintes pour l'élément 5:
+Sigma_x = 7.19293e-310, Sigma_y = -395.154, Tau_xy = -284.532
+Contraintes pour l'élément 6:
+Sigma_x = 7.19675e-310, Sigma_y = 186.613, Tau_xy = 137.775
+Contraintes pour l'élément 7:
+Sigma_x = 7.20057e-310, Sigma_y = -121.749, Tau_xy = 257.756
+Contraintes pour l'élément 8:
+Sigma_x = 7.20439e-310, Sigma_y = -254.917, Tau_xy = -256.508
+Contraintes pour l'élément 9:
+Sigma_x = 7.20821e-310, Sigma_y = -183.55, Tau_xy = -174.6
+Contraintes pour l'élément 10:
+Sigma_x = 7.21203e-310, Sigma_y = -394.212, Tau_xy = -284.532
+Contraintes pour l'élément 11:
+Sigma_x = 7.21585e-310, Sigma_y = 1417.47, Tau_xy = 2206.98
+Contraintes pour l'élément 12:
+Sigma_x = 7.21967e-310, Sigma_y = -72.0894, Tau_xy = -304.84
+Contraintes pour l'élément 13:
+Sigma_x = 7.22349e-310, Sigma_y = -399.745, Tau_xy = -163.443
+Contraintes pour l'élément 14:
+Sigma_x = 7.22731e-310, Sigma_y = 6.191, Tau_xy = -497.259
+Contraintes pour l'élément 15:
+Sigma_x = 7.23113e-310, Sigma_y = 207.565, Tau_xy = -28.3251
+Contraintes pour l'élément 16:
+Sigma_x = 7.23494e-310, Sigma_y = 157.709, Tau_xy = -418.191
+Contraintes pour l'élément 17:
+Sigma_x = 7.23898e-310, Sigma_y = -179.217, Tau_xy = 2096.46
+Contraintes pour l'élément 18:
+Sigma_x = 7.2428e-310, Sigma_y = -197.478, Tau_xy = 106.275
+Contraintes pour l'élément 19:
+Sigma_x = 7.2464e-310, Sigma_y = 1374.59, Tau_xy = -310.774
+Contraintes pour l'élément 20:
+Sigma_x = 7.25044e-310, Sigma_y = 215.13, Tau_xy = -418.361
+Contraintes pour l'élément 21:
+Sigma_x = 7.25425e-310, Sigma_y = -221.285, Tau_xy = -269.728
+Contraintes pour l'élément 22:
+Sigma_x = 7.25807e-310, Sigma_y = -265.611, Tau_xy = 2099.28
+Contraintes pour l'élément 23:
+Sigma_x = 7.26168e-310, Sigma_y = 65.3461, Tau_xy = 132.205
+Contraintes pour l'élément 24:
+Sigma_x = 7.26508e-310, Sigma_y = -80.1549, Tau_xy = -327.806
+Contraintes pour l'élément 25:
+Sigma_x = 7.26847e-310, Sigma_y = 108.91, Tau_xy = 69.7403
+Contraintes pour l'élément 26:
+Sigma_x = 7.27208e-310, Sigma_y = -378.778, Tau_xy = 249.731
+Contraintes pour l'élément 27:
+Sigma_x = 7.27547e-310, Sigma_y = -215.186, Tau_xy = -211.854
+Contraintes pour l'élément 28:
+Sigma_x = 7.27887e-310, Sigma_y = 1900.86, Tau_xy = 194.507
+Contraintes pour l'élément 29:
+Sigma_x = 7.28248e-310, Sigma_y = -482.846, Tau_xy = 147.199
+Contraintes pour l'élément 30:
+Sigma_x = 7.28587e-310, Sigma_y = -139.443, Tau_xy = -164.231
+Contraintes pour l'élément 31:
+Sigma_x = 7.28927e-310, Sigma_y = -411.561, Tau_xy = -457
+Contraintes pour l'élément 32:
+Sigma_x = 7.29309e-310, Sigma_y = 125.679, Tau_xy = 2053.86
+Contraintes pour l'élément 33:
+Sigma_x = 7.29712e-310, Sigma_y = -335.785, Tau_xy = 227.108
+Contraintes pour l'élément 34:
+Sigma_x = 7.30115e-310, Sigma_y = 1422.68, Tau_xy = 164.541
+Contraintes pour l'élément 35:
+Sigma_x = 7.30497e-310, Sigma_y = -190.602, Tau_xy = -231.517
+Contraintes pour l'élément 36:
+Sigma_x = 7.30879e-310, Sigma_y = -184.283, Tau_xy = -257.048
+Contraintes pour l'élément 37:
+Sigma_x = 7.31282e-310, Sigma_y = 1500.35, Tau_xy = -91.448
+Contraintes pour l'élément 38:
+Sigma_x = 7.31664e-310, Sigma_y = 161.421, Tau_xy = -183.381
+Contraintes pour l'élément 39:
+Sigma_x = 7.32046e-310, Sigma_y = -198.84, Tau_xy = 173.302
+Contraintes pour l'élément 40:
+Sigma_x = 7.32428e-310, Sigma_y = -351.314, Tau_xy = -324.781
+Contraintes pour l'élément 41:
+Sigma_x = 7.3281e-310, Sigma_y = 68.8058, Tau_xy = 1876.65
+Contraintes pour l'élément 42:
+Sigma_x = 7.33192e-310, Sigma_y = -297.15, Tau_xy = -261.146
+Contraintes pour l'élément 43:
+Sigma_x = 7.33574e-310, Sigma_y = 2226.48, Tau_xy = -263.283
+Contraintes pour l'élément 44:
+Sigma_x = 7.33956e-310, Sigma_y = 105.274, Tau_xy = -325.295
+Contraintes pour l'élément 45:
+Sigma_x = 7.34338e-310, Sigma_y = -482.846, Tau_xy = 112.263
+Contraintes pour l'élément 46:
+Sigma_x = 7.3472e-310, Sigma_y = 1657.82, Tau_xy = -331.939
+Contraintes pour l'élément 47:
+Sigma_x = 7.35102e-310, Sigma_y = -285.904, Tau_xy = -240.19
+Contraintes pour l'élément 48:
+Sigma_x = 7.35484e-310, Sigma_y = -209.995, Tau_xy = -397.625
+Contraintes pour l'élément 49:
+Sigma_x = 7.35866e-310, Sigma_y = -286.861, Tau_xy = 2020.2
+Contraintes pour l'élément 50:
+Sigma_x = 7.36248e-310, Sigma_y = -0.685354, Tau_xy = 166.699
+Contraintes pour l'élément 51:
+Sigma_x = 7.3663e-310, Sigma_y = -410.086, Tau_xy = -344.05
+Contraintes pour l'élément 52:
+Sigma_x = 7.37012e-310, Sigma_y = 12.9531, Tau_xy = 171.642
+Contraintes pour l'élément 53:
+Sigma_x = 7.37394e-310, Sigma_y = -520.029, Tau_xy = 208.183
+Contraintes pour l'élément 54:
+Sigma_x = 7.37775e-310, Sigma_y = 215.13, Tau_xy = 169.638
+Contraintes pour l'élément 55:
+Sigma_x = 7.38157e-310, Sigma_y = 2274.81, Tau_xy = -259.357
+Contraintes pour l'élément 56:
+Sigma_x = 7.38539e-310, Sigma_y = -251.96, Tau_xy = -321.5
+Contraintes pour l'élément 57:
+Sigma_x = 7.38921e-310, Sigma_y = -198.568, Tau_xy = -92.2998
+Contraintes pour l'élément 58:
+Sigma_x = 7.39303e-310, Sigma_y = -446.479, Tau_xy = -181.189
+Contraintes pour l'élément 59:
+Sigma_x = 7.39685e-310, Sigma_y = 226.186, Tau_xy = 1876.85
+Contraintes pour l'élément 60:
+Sigma_x = 7.40067e-310, Sigma_y = -372.627, Tau_xy = -258.257
+Contraintes pour l'élément 61:
+Sigma_x = 7.40449e-310, Sigma_y = 182.059, Tau_xy = 231.485
+Contraintes pour l'élément 62:
+Sigma_x = 7.40831e-310, Sigma_y = 1975.05, Tau_xy = -225.446
+Contraintes pour l'élément 63:
+Sigma_x = 7.41213e-310, Sigma_y = -252.745, Tau_xy = -138.306
+Contraintes pour l'élément 64:
+Sigma_x = 7.41595e-310, Sigma_y = -254.861, Tau_xy = 163.504
+Contraintes pour l'élément 65:
+Sigma_x = 7.41977e-310, Sigma_y = 1398.81, Tau_xy = -258.257
+Contraintes pour l'élément 66:
+Sigma_x = 7.42359e-310, Sigma_y = -296.222, Tau_xy = 1974.35
+Contraintes pour l'élément 67:
+Sigma_x = 7.42783e-310, Sigma_y = -333.929, Tau_xy = -135.368
+Contraintes pour l'élément 68:
+Sigma_x = 7.43187e-310, Sigma_y = 208.403, Tau_xy = -414.395
+Contraintes pour l'élément 69:
+Sigma_x = 7.4359e-310, Sigma_y = 1407.94, Tau_xy = -92.1537
+Contraintes pour l'élément 70:
+Sigma_x = 7.43972e-310, Sigma_y = 164.04, Tau_xy = 145.347
+Contraintes pour l'élément 71:
+Sigma_x = 7.44375e-310, Sigma_y = -445.594, Tau_xy = -142.807
+Contraintes pour l'élément 72:
+Sigma_x = 7.44757e-310, Sigma_y = 161.421, Tau_xy = -360.801
+Contraintes pour l'élément 73:
+Sigma_x = 7.45139e-310, Sigma_y = 1760.78, Tau_xy = -135.368
+Contraintes pour l'élément 74:
+Sigma_x = 7.45521e-310, Sigma_y = -408.447, Tau_xy = 1796.88
+Contraintes pour l'élément 75:
+Sigma_x = 7.45903e-310, Sigma_y = -359.767, Tau_xy = 220.729
+Contraintes pour l'élément 76:
+Sigma_x = 7.46285e-310, Sigma_y = 86.4953, Tau_xy = -697.786
+Contraintes pour l'élément 77:
+Sigma_x = 7.46688e-310, Sigma_y = 146.84, Tau_xy = -26.0362
+Contraintes pour l'élément 78:
+Sigma_x = 7.4707e-310, Sigma_y = -297.197, Tau_xy = -386.058
+Contraintes pour l'élément 79:
+Sigma_x = 7.47473e-310, Sigma_y = -460.099, Tau_xy = 1786.16
+Contraintes pour l'élément 80:
+Sigma_x = 7.47876e-310, Sigma_y = -154.129, Tau_xy = -285.519
+Contraintes pour l'élément 81:
+Sigma_x = 7.48258e-310, Sigma_y = -408.447, Tau_xy = 164.643
+Contraintes pour l'élément 82:
+Sigma_x = 7.4864e-310, Sigma_y = 1721.8, Tau_xy = -323.059
+Contraintes pour l'élément 83:
+Sigma_x = 7.49022e-310, Sigma_y = -189.718, Tau_xy = 170.529
+Contraintes pour l'élément 84:
+Sigma_x = 7.49425e-310, Sigma_y = -262.224, Tau_xy = -259.327
+Contraintes pour l'élément 85:
+Sigma_x = 7.49807e-310, Sigma_y = -288.383, Tau_xy = 1535.06
+Contraintes pour l'élément 86:
+Sigma_x = 7.50189e-310, Sigma_y = -320.01, Tau_xy = -342.728
+Contraintes pour l'élément 87:
+Sigma_x = 7.50571e-310, Sigma_y = 55.0571, Tau_xy = 170.715
+Contraintes pour l'élément 88:
+Sigma_x = 7.50953e-310, Sigma_y = -241.057, Tau_xy = -291.961
+Contraintes pour l'élément 89:
+Sigma_x = 7.51335e-310, Sigma_y = -247.246, Tau_xy = 303.501
+Contraintes pour l'élément 90:
+Sigma_x = 7.51717e-310, Sigma_y = -72.0894, Tau_xy = 110.458
+Contraintes pour l'élément 91:
+Sigma_x = 7.5212e-310, Sigma_y = 1321, Tau_xy = -464.219
+Contraintes pour l'élément 92:
+Sigma_x = 7.52481e-310, Sigma_y = -178.96, Tau_xy = -432.306
+Contraintes pour l'élément 93:
+Sigma_x = 7.52842e-310, Sigma_y = 170.726, Tau_xy = -45.27
+Contraintes pour l'élément 94:
+Sigma_x = 7.53202e-310, Sigma_y = -198.703, Tau_xy = 1702.53
+Contraintes pour l'élément 95:
+Sigma_x = 7.53606e-310, Sigma_y = 88.9198, Tau_xy = 51.7246
+Contraintes pour l'élément 96:
+Sigma_x = 7.53988e-310, Sigma_y = 166.361, Tau_xy = -369.962
+Contraintes pour l'élément 97:
+Sigma_x = 7.5437e-310, Sigma_y = 1872.47, Tau_xy = -160.28
+Contraintes pour l'élément 98:
+Sigma_x = 7.5473e-310, Sigma_y = -221.285, Tau_xy = 1841.22
+Contraintes pour l'élément 99:
+Sigma_x = 7.55091e-310, Sigma_y = -251.96, Tau_xy = 100.914
+Contraintes pour l'élément 100:
+Sigma_x = 7.55452e-310, Sigma_y = 1736.16, Tau_xy = -313.272
+Contraintes pour l'élément 101:
+Sigma_x = 7.55791e-310, Sigma_y = -643.393, Tau_xy = -232.461
+Contraintes pour l'élément 102:
+Sigma_x = 7.56131e-310, Sigma_y = 83.235, Tau_xy = -181.502
+Contraintes pour l'élément 103:
+Sigma_x = 7.5647e-310, Sigma_y = -8.47509, Tau_xy = 51.7246
+Contraintes pour l'élément 104:
+Sigma_x = 7.5681e-310, Sigma_y = 1712.86, Tau_xy = 2106.33
+Contraintes pour l'élément 105:
+Sigma_x = 7.57149e-310, Sigma_y = -225.752, Tau_xy = 102.489
+Contraintes pour l'élément 106:
+Sigma_x = 7.57489e-310, Sigma_y = -312.774, Tau_xy = -240.296
+Contraintes pour l'élément 107:
+Sigma_x = 7.57828e-310, Sigma_y = -265.611, Tau_xy = -205.922
+Contraintes pour l'élément 108:
+Sigma_x = 7.5821e-310, Sigma_y = 1689.81, Tau_xy = 200.117
+Contraintes pour l'élément 109:
+Sigma_x = 7.58571e-310, Sigma_y = -458.033, Tau_xy = -300.456
+Contraintes pour l'élément 110:
+Sigma_x = 7.58953e-310, Sigma_y = -299.756, Tau_xy = 155.632
+Contraintes pour l'élément 111:
+Sigma_x = 7.59335e-310, Sigma_y = -216.547, Tau_xy = -511.864
+Contraintes pour l'élément 112:
+Sigma_x = 7.59696e-310, Sigma_y = 171.323, Tau_xy = -280.419
+Contraintes pour l'élément 113:
+Sigma_x = 7.60078e-310, Sigma_y = -337.45, Tau_xy = 2386.61
+Contraintes pour l'élément 114:
+Sigma_x = 7.6046e-310, Sigma_y = 167.226, Tau_xy = 197.809
+Contraintes pour l'élément 115:
+Sigma_x = 7.60842e-310, Sigma_y = 196.172, Tau_xy = 196.639
+Contraintes pour l'élément 116:
+Sigma_x = 7.61224e-310, Sigma_y = -365.903, Tau_xy = 1874.86
+Contraintes pour l'élément 117:
+Sigma_x = 7.61627e-310, Sigma_y = -406.339, Tau_xy = -102.87
+Contraintes pour l'élément 118:
+Sigma_x = 7.62009e-310, Sigma_y = 1729.15, Tau_xy = -403.833
+Contraintes pour l'élément 119:
+Sigma_x = 7.62391e-310, Sigma_y = -400.942, Tau_xy = -112.347
+Contraintes pour l'élément 120:
+Sigma_x = 7.62773e-310, Sigma_y = -340.155, Tau_xy = -149.887
+Contraintes pour l'élément 121:
+Sigma_x = 7.63155e-310, Sigma_y = 179.707, Tau_xy = 1684.92
+Contraintes pour l'élément 122:
+Sigma_x = 7.63537e-310, Sigma_y = 56.3983, Tau_xy = -159.962
+Contraintes pour l'élément 123:
+Sigma_x = 7.63918e-310, Sigma_y = -337.45, Tau_xy = 156.823
+Contraintes pour l'élément 124:
+Sigma_x = 7.643e-310, Sigma_y = -156.454, Tau_xy = -230.928
+Contraintes pour l'élément 125:
+Sigma_x = 7.64682e-310, Sigma_y = -400.942, Tau_xy = -206.254
+Contraintes pour l'élément 126:
+Sigma_x = 7.65064e-310, Sigma_y = 2050.54, Tau_xy = 182.968
+Contraintes pour l'élément 127:
+Sigma_x = 7.65446e-310, Sigma_y = -457.099, Tau_xy = 124.927
+Contraintes pour l'élément 128:
+Sigma_x = 7.65828e-310, Sigma_y = -391.335, Tau_xy = -448.936
+Contraintes pour l'élément 129:
+Sigma_x = 7.6621e-310, Sigma_y = -134.33, Tau_xy = -423.922
+Contraintes pour l'élément 130:
+Sigma_x = 7.66592e-310, Sigma_y = -229.208, Tau_xy = 2092.1
+Contraintes pour l'élément 131:
+Sigma_x = 7.66974e-310, Sigma_y = -189.292, Tau_xy = -416.492
+Contraintes pour l'élément 132:
+Sigma_x = 7.67356e-310, Sigma_y = 1393.43, Tau_xy = -486.734
+Contraintes pour l'élément 133:
+Sigma_x = 7.67738e-310, Sigma_y = 153.2, Tau_xy = 145.055
+Contraintes pour l'élément 134:
+Sigma_x = 7.68141e-310, Sigma_y = -457.099, Tau_xy = -208.356
+Contraintes pour l'élément 135:
+Sigma_x = 7.68544e-310, Sigma_y = 1464.04, Tau_xy = -204.512
+Contraintes pour l'élément 136:
+Sigma_x = 7.68969e-310, Sigma_y = -105.115, Tau_xy = 118.092
+Contraintes pour l'élément 137:
+Sigma_x = 7.69351e-310, Sigma_y = -144.249, Tau_xy = -302.47
+Contraintes pour l'élément 138:
+Sigma_x = 7.69733e-310, Sigma_y = 159.171, Tau_xy = -238.507
+Contraintes pour l'élément 139:
+Sigma_x = 7.70115e-310, Sigma_y = -257.109, Tau_xy = -416.492
+Contraintes pour l'élément 140:
+Sigma_x = 7.70497e-310, Sigma_y = -198.81, Tau_xy = 1929.45
+Contraintes pour l'élément 141:
+Sigma_x = 7.70879e-310, Sigma_y = -465.163, Tau_xy = 153.554
+Contraintes pour l'élément 142:
+Sigma_x = 7.71261e-310, Sigma_y = -391.335, Tau_xy = -320.957
+Contraintes pour l'élément 143:
+Sigma_x = 7.71643e-310, Sigma_y = -105.115, Tau_xy = 2055.9
+Contraintes pour l'élément 144:
+Sigma_x = 7.72025e-310, Sigma_y = 1406.11, Tau_xy = -137.451
+Contraintes pour l'élément 145:
+Sigma_x = 7.72449e-310, Sigma_y = -401.909, Tau_xy = -463.575
+Contraintes pour l'élément 146:
+Sigma_x = 7.72831e-310, Sigma_y = -120.262, Tau_xy = -13.8233
+Contraintes pour l'élément 147:
+Sigma_x = 7.73213e-310, Sigma_y = 138.203, Tau_xy = 153.554
+Contraintes pour l'élément 148:
+Sigma_x = 7.73616e-310, Sigma_y = -216.287, Tau_xy = 1565.51
+Contraintes pour l'élément 149:
+Sigma_x = 7.73998e-310, Sigma_y = -199.183, Tau_xy = 98.9213
+Contraintes pour l'élément 150:
+Sigma_x = 7.74359e-310, Sigma_y = -310.699, Tau_xy = -277.989
+Contraintes pour l'élément 151:
+Sigma_x = 7.74719e-310, Sigma_y = -134.33, Tau_xy = -396.401
+Contraintes pour l'élément 152:
+Sigma_x = 7.75101e-310, Sigma_y = -401.909, Tau_xy = 264.497
+Contraintes pour l'élément 153:
+Sigma_x = 7.75462e-310, Sigma_y = 1602.7, Tau_xy = -240.238
+Contraintes pour l'élément 154:
+Sigma_x = 7.75844e-310, Sigma_y = -355.046, Tau_xy = 105.167
+Contraintes pour l'élément 155:
+Sigma_x = 7.76226e-310, Sigma_y = 144.191, Tau_xy = -303.888
+Contraintes pour l'élément 156:
+Sigma_x = 7.76608e-310, Sigma_y = -444.253, Tau_xy = -398.031
+Contraintes pour l'élément 157:
+Sigma_x = 7.76969e-310, Sigma_y = 213.604, Tau_xy = -257.652
+Contraintes pour l'élément 158:
+Sigma_x = 7.77329e-310, Sigma_y = -465.163, Tau_xy = 2270.69
+Contraintes pour l'élément 159:
+Sigma_x = 7.7769e-310, Sigma_y = 166.825, Tau_xy = -476.462
+Contraintes pour l'élément 160:
+Sigma_x = 7.7803e-310, Sigma_y = -120.262, Tau_xy = 117.705
+Contraintes pour l'élément 161:
+Sigma_x = 7.78369e-310, Sigma_y = -355.046, Tau_xy = 1905.36
+Contraintes pour l'élément 162:
+Sigma_x = 7.7873e-310, Sigma_y = 1855.09, Tau_xy = 22.211
+Contraintes pour l'élément 163:
+Sigma_x = -46.4247, Sigma_y = -407.224, Tau_xy = 62.9414
+Contraintes pour l'élément 164:
+Sigma_x = 9.58329e-319, Sigma_y = -360.883, Tau_xy = -255.767
+Contraintes pour l'élément 165:
+Sigma_x = 1.45089e-318, Sigma_y = -119.156, Tau_xy = -328.442
+Contraintes pour l'élément 166:
+Sigma_x = 1, Sigma_y = -238.267, Tau_xy = -453.896
+Contraintes pour l'élément 167:
+Sigma_x = -430.555, Sigma_y = 1394.45, Tau_xy = -35.9357
+Contraintes pour l'élément 168:
+Sigma_x = 1, Sigma_y = 166.958, Tau_xy = 2239.24
+Contraintes pour l'élément 169:
+Sigma_x = -430.555, Sigma_y = 138.203, Tau_xy = -441.88
+Contraintes pour l'élément 170:
+Sigma_x = -46.9277, Sigma_y = -407.224, Tau_xy = 240.509
+Contraintes pour l'élément 171:
+Sigma_x = -510.836, Sigma_y = 1456.45, Tau_xy = -154.714
+Contraintes pour l'élément 172:
+Sigma_x = -316.136, Sigma_y = -124.323, Tau_xy = 157.031
+Contraintes pour l'élément 173:
+Sigma_x = 174.912, Sigma_y = 175.304, Tau_xy = -374.058
+Contraintes pour l'élément 174:
+Sigma_x = 1, Sigma_y = -130.892, Tau_xy = -181.766
+Contraintes pour l'élément 175:
+Sigma_x = 2.07977e-10, Sigma_y = -272.969, Tau_xy = 190.041
+Contraintes pour l'élément 176:
+Sigma_x = -316.136, Sigma_y = -198.913, Tau_xy = -400.644
+Contraintes pour l'élément 177:
+Sigma_x = 174.912, Sigma_y = -467.12, Tau_xy = 2067.67
+Contraintes pour l'élément 178:
+Sigma_x = 2649.88, Sigma_y = -360.883, Tau_xy = -69.2191
+Contraintes pour l'élément 179:
+Sigma_x = -202.887, Sigma_y = -124.323, Tau_xy = -180.219
+Contraintes pour l'élément 180:
+Sigma_x = 1, Sigma_y = 1843.27, Tau_xy = 12.9531
+Contraintes pour l'élément 181:
+Sigma_x = -429.659, Sigma_y = -402.583, Tau_xy = 141.681
+Contraintes pour l'élément 182:
+Sigma_x = -47.9804, Sigma_y = -321.454, Tau_xy = -194.637
+Contraintes pour l'élément 183:
+Sigma_x = -510.836, Sigma_y = -463.846, Tau_xy = -177.258
+Contraintes pour l'élément 184:
+Sigma_x = 320.129, Sigma_y = 243.847, Tau_xy = -77.1339
+Contraintes pour l'élément 185:
+Sigma_x = -241.77, Sigma_y = -311.372, Tau_xy = -129.294
+Contraintes pour l'élément 186:
+Sigma_x = 2149.74, Sigma_y = -337.932, Tau_xy = 2058.66
+Contraintes pour l'élément 187:
+Sigma_x = -606.313, Sigma_y = 175.304, Tau_xy = -355.358
+Contraintes pour l'élément 188:
+Sigma_x = 1, Sigma_y = -402.583, Tau_xy = -149.4
+Contraintes pour l'élément 189:
+Sigma_x = -202.887, Sigma_y = 1899.01, Tau_xy = -175.601
+Contraintes pour l'élément 190:
+Sigma_x = -779.381, Sigma_y = -159.832, Tau_xy = -80.2494
+Contraintes pour l'élément 191:
+Sigma_x = -750.688, Sigma_y = -632.137, Tau_xy = -186.83
+Contraintes pour l'élément 192:
+Sigma_x = -494.804, Sigma_y = -69.1246, Tau_xy = -496.17
+Contraintes pour l'élément 193:
+Sigma_x = 264.771, Sigma_y = 232.93, Tau_xy = 204.331
+Contraintes pour l'élément 194:
+Sigma_x = 320.129, Sigma_y = -337.89, Tau_xy = -355.358
+Contraintes pour l'élément 195:
+Sigma_x = -241.77, Sigma_y = 1925.89, Tau_xy = 2255.29
+Contraintes pour l'élément 196:
+Sigma_x = -422.094, Sigma_y = -321.454, Tau_xy = -65.4865
+Contraintes pour l'élément 197:
+Sigma_x = 170.846, Sigma_y = -159.832, Tau_xy = -237.691
+Contraintes pour l'élément 198:
+Sigma_x = -352.99, Sigma_y = 1832.87, Tau_xy = 1656.14
+Contraintes pour l'élément 199:
+Sigma_x = 212.07, Sigma_y = -433.352, Tau_xy = 174.912
+Contraintes pour l'élément 200:
+Sigma_x = 1, Sigma_y = -315.984, Tau_xy = 145.757
+Contraintes pour l'élément 201:
+Sigma_x = -606.313, Sigma_y = -245.994, Tau_xy = -72.0258
+Contraintes pour l'élément 202:
+Sigma_x = -655.97, Sigma_y = -77.4287, Tau_xy = -476.462
+Contraintes pour l'élément 203:
+Sigma_x = 65.1892, Sigma_y = -532.337, Tau_xy = 1615.34
+Contraintes pour l'élément 204:
+Sigma_x = -255.161, Sigma_y = -181.154, Tau_xy = 48.9936
+Contraintes pour l'élément 205:
+Sigma_x = -326.155, Sigma_y = 156.492, Tau_xy = -300.696
+Contraintes pour l'élément 206:
+Sigma_x = 227.436, Sigma_y = -29.1407, Tau_xy = -363.697
+Contraintes pour l'élément 207:
+Sigma_x = 2477.5, Sigma_y = -471.185, Tau_xy = 263.178
+Contraintes pour l'élément 208:
+Sigma_x = -690.232, Sigma_y = -450.832, Tau_xy = -84.2624
+Contraintes pour l'élément 209:
+Sigma_x = -646.409, Sigma_y = 2648.25, Tau_xy = -138.597
+Contraintes pour l'élément 210:
+Sigma_x = -466.688, Sigma_y = -403.842, Tau_xy = -259.712
+Contraintes pour l'élément 211:
+Sigma_x = 1, Sigma_y = -365.445, Tau_xy = -91.7561
+Contraintes pour l'élément 212:
+Sigma_x = -670.271, Sigma_y = 164.27, Tau_xy = 170.544
+Contraintes pour l'élément 213:
+Sigma_x = -687.422, Sigma_y = 56.4118, Tau_xy = -342.728
+Contraintes pour l'élément 214:
+Sigma_x = -422.094, Sigma_y = -467.12, Tau_xy = 2046.52
+Contraintes pour l'élément 215:
+Sigma_x = 170.846, Sigma_y = -76.7289, Tau_xy = -91.8549
+Contraintes pour l'élément 216:
+Sigma_x = -352.99, Sigma_y = -403.842, Tau_xy = 1569.88
+Contraintes pour l'élément 217:
+Sigma_x = 212.07, Sigma_y = 1803.72, Tau_xy = 334.748
+Contraintes pour l'élément 218:
+Sigma_x = 131.311, Sigma_y = -401.69, Tau_xy = -352.578
+Contraintes pour l'élément 219:
+Sigma_x = -362.698, Sigma_y = -323.446, Tau_xy = 202.545
+Contraintes pour l'élément 220:
+Sigma_x = 182.877, Sigma_y = -140.429, Tau_xy = -422.146
+Contraintes pour l'élément 221:
+Sigma_x = 2087.41, Sigma_y = -212.766, Tau_xy = -341.373
+Contraintes pour l'élément 222:
+Sigma_x = 1, Sigma_y = -460.985, Tau_xy = 1777.01
+Contraintes pour l'élément 223:
+Sigma_x = -687.27, Sigma_y = 1342.12, Tau_xy = -186.096
+Contraintes pour l'élément 224:
+Sigma_x = -671.838, Sigma_y = 140, Tau_xy = -172.024
+Contraintes pour l'élément 225:
+Sigma_x = 155.407, Sigma_y = -401.69, Tau_xy = 305.14
+Contraintes pour l'élément 226:
+Sigma_x = -303.413, Sigma_y = 1287.22, Tau_xy = -380.06
+Contraintes pour l'élément 227:
+Sigma_x = -325.151, Sigma_y = -143.519, Tau_xy = 203.307
+Contraintes pour l'élément 228:
+Sigma_x = 227.84, Sigma_y = 148.849, Tau_xy = -428.545
+Contraintes pour l'élément 229:
+Sigma_x = -650.488, Sigma_y = -294.647, Tau_xy = -217.215
+Contraintes pour l'élément 230:
+Sigma_x = -608.483, Sigma_y = 120.847, Tau_xy = -170.359
+Contraintes pour l'élément 231:
+Sigma_x = 102.321, Sigma_y = -460.837, Tau_xy = -127.93
+Contraintes pour l'élément 232:
+Sigma_x = -241.323, Sigma_y = -225.168, Tau_xy = 2112.6
+Contraintes pour l'élément 233:
+Sigma_x = 1, Sigma_y = -323.446, Tau_xy = -243.231
+Contraintes pour l'élément 234:
+Sigma_x = -690.232, Sigma_y = -143.519, Tau_xy = 2067.75
+Contraintes pour l'élément 235:
+Sigma_x = -646.409, Sigma_y = 1744.37, Tau_xy = -97.4445
+Contraintes pour l'élément 236:
+Sigma_x = -466.688, Sigma_y = -406.696, Tau_xy = -486.198
+Contraintes pour l'élément 237:
+Sigma_x = 143.676, Sigma_y = -339.297, Tau_xy = 164.63
+Contraintes pour l'élément 238:
+Sigma_x = -380.25, Sigma_y = -355.741, Tau_xy = -330.184
+Contraintes pour l'élément 239:
+Sigma_x = 203.283, Sigma_y = 168.609, Tau_xy = -462.635
+Contraintes pour l'élément 240:
+Sigma_x = 311.997, Sigma_y = -139.461, Tau_xy = -148.524
+Contraintes pour l'élément 241:
+Sigma_x = -370.129, Sigma_y = 57.7755, Tau_xy = 2307.73
+Contraintes pour l'élément 242:
+Sigma_x = 2211.67, Sigma_y = 148.849, Tau_xy = -459.539
+Contraintes pour l'élément 243:
+Sigma_x = -621.728, Sigma_y = -406.696, Tau_xy = -414.446
+Contraintes pour l'élément 244:
+Sigma_x = 1, Sigma_y = 1499.96, Tau_xy = -92.9388
+Contraintes pour l'élément 245:
+Sigma_x = -727.831, Sigma_y = -145.922, Tau_xy = -457.761
+Contraintes pour l'élément 246:
+Sigma_x = -630.232, Sigma_y = 151.262, Tau_xy = -248.258
+Contraintes pour l'élément 247:
+Sigma_x = -535.315, Sigma_y = -133.631, Tau_xy = -129.522
+Contraintes pour l'élément 248:
+Sigma_x = 131.311, Sigma_y = -242.016, Tau_xy = 161.597
+Contraintes pour l'élément 249:
+Sigma_x = -362.698, Sigma_y = -225.168, Tau_xy = -719.37
+Contraintes pour l'élément 250:
+Sigma_x = 182.877, Sigma_y = -336.775, Tau_xy = 2029.74
+Contraintes pour l'élément 251:
+Sigma_x = 897.113, Sigma_y = -339.297, Tau_xy = -128.451
+Contraintes pour l'élément 252:
+Sigma_x = -325.765, Sigma_y = -145.922, Tau_xy = 279.891
+Contraintes pour l'élément 253:
+Sigma_x = 174.534, Sigma_y = 1865.66, Tau_xy = -303.384
+Contraintes pour l'élément 254:
+Sigma_x = -256.685, Sigma_y = -409.619, Tau_xy = 257.094
+Contraintes pour l'élément 255:
+Sigma_x = 1, Sigma_y = -343.425, Tau_xy = -228.388
+Contraintes pour l'élément 256:
+Sigma_x = -701.668, Sigma_y = -133.962, Tau_xy = 163.965
+Contraintes pour l'élément 257:
+Sigma_x = -605.489, Sigma_y = -241.112, Tau_xy = -333.18
+Contraintes pour l'élément 258:
+Sigma_x = 87.5156, Sigma_y = 2045.34, Tau_xy = -106.484
+Contraintes pour l'élément 259:
+Sigma_x = -241.295, Sigma_y = -225.182, Tau_xy = -128.451
+Contraintes pour l'élément 260:
+Sigma_x = 332.265, Sigma_y = 151.262, Tau_xy = 1825.68
+Contraintes pour l'élément 261:
+Sigma_x = -362.214, Sigma_y = -409.619, Tau_xy = -234.519
+Contraintes pour l'élément 262:
+Sigma_x = -305.37, Sigma_y = 1402.85, Tau_xy = -193.658
+Contraintes pour l'élément 263:
+Sigma_x = 83.9179, Sigma_y = -145.991, Tau_xy = 1837.64
+Contraintes pour l'élément 264:
+Sigma_x = -235.894, Sigma_y = 151.457, Tau_xy = 101.754
+Contraintes pour l'élément 265:
+Sigma_x = -305.37, Sigma_y = -364.227, Tau_xy = -309.822
+Contraintes pour l'élément 266:
+Sigma_x = 1, Sigma_y = 179.735, Tau_xy = -229.666
+Contraintes pour l'élément 267:
+Sigma_x = -650.488, Sigma_y = -220.362, Tau_xy = -396.571
+Contraintes pour l'élément 268:
+Sigma_x = -608.483, Sigma_y = -203.975, Tau_xy = 2245.8
+Contraintes pour l'élément 269:
+Sigma_x = 102.321, Sigma_y = -343.425, Tau_xy = -476.514
+Contraintes pour l'élément 270:
+Sigma_x = -241.323, Sigma_y = -145.991, Tau_xy = 90.1315
+Contraintes pour l'élément 271:
+Sigma_x = -324.573, Sigma_y = 1800.46, Tau_xy = 2410.97
+Contraintes pour l'élément 272:
+Sigma_x = 231.098, Sigma_y = -366.104, Tau_xy = -327.733
+Contraintes pour l'élément 273:
+Sigma_x = 141.643, Sigma_y = -145.46, Tau_xy = 145.561
+Contraintes pour l'élément 274:
+Sigma_x = -277.516, Sigma_y = -408.49, Tau_xy = -38.9491
+Contraintes pour l'élément 275:
+Sigma_x = -341.088, Sigma_y = -121.403, Tau_xy = -476.514
+Contraintes pour l'élément 276:
+Sigma_x = 1152.73, Sigma_y = 73.988, Tau_xy = 1574.88
+Contraintes pour l'élément 277:
+Sigma_x = 1, Sigma_y = -220.362, Tau_xy = 56.3691
+Contraintes pour l'élément 278:
+Sigma_x = -709.578, Sigma_y = -133.962, Tau_xy = -273.882
+Contraintes pour l'élément 279:
+Sigma_x = -654.316, Sigma_y = -366.104, Tau_xy = -339.016
+Contraintes pour l'élément 280:
+Sigma_x = 148.827, Sigma_y = 2039.87, Tau_xy = -275.835
+Contraintes pour l'élément 281:
+Sigma_x = -329.791, Sigma_y = -343.557, Tau_xy = 1928.27
+Contraintes pour l'élément 282:
+Sigma_x = 311.997, Sigma_y = -129.823, Tau_xy = -478.18
+Contraintes pour l'élément 283:
+Sigma_x = -370.129, Sigma_y = -403.833, Tau_xy = -161.295
+Contraintes pour l'élément 284:
+Sigma_x = 116.953, Sigma_y = -116.389, Tau_xy = 90.1315
+Contraintes pour l'élément 285:
+Sigma_x = -326.359, Sigma_y = -462.848, Tau_xy = 56.3691
+Contraintes pour l'élément 286:
+Sigma_x = 915.996, Sigma_y = 1336.72, Tau_xy = 1758.77
+Contraintes pour l'élément 287:
+Sigma_x = -330.191, Sigma_y = -145.46, Tau_xy = -181.083
+Contraintes pour l'élément 288:
+Sigma_x = 1, Sigma_y = -343.557, Tau_xy = 12.6085
+Contraintes pour l'élément 289:
+Sigma_x = -621.728, Sigma_y = 1339.54, Tau_xy = -337.97
+Contraintes pour l'élément 290:
+Sigma_x = -654.184, Sigma_y = -365.747, Tau_xy = -1.0796
+Contraintes pour l'élément 291:
+Sigma_x = -11.703, Sigma_y = -145.955, Tau_xy = -311.181
+Contraintes pour l'élément 292:
+Sigma_x = 162.336, Sigma_y = 151.406, Tau_xy = 63.1213
+Contraintes pour l'élément 293:
+Sigma_x = -417.619, Sigma_y = -239.782, Tau_xy = 65.8203
+Contraintes pour l'élément 294:
+Sigma_x = -363.507, Sigma_y = 166.815, Tau_xy = 72.151
+Contraintes pour l'élément 295:
+Sigma_x = 183.776, Sigma_y = -220.964, Tau_xy = 68.8058
+Contraintes pour l'élément 296:
+Sigma_x = 855.886, Sigma_y = -129.823, Tau_xy = -322.579
+Contraintes pour l'élément 297:
+Sigma_x = -299.476, Sigma_y = -365.747, Tau_xy = 2143.43
+Contraintes pour l'élément 298:
+Sigma_x = -316.136, Sigma_y = 2006.75, Tau_xy = 228.42
+Contraintes pour l'élément 299:
+Sigma_x = 897.113, Sigma_y = -343.094, Tau_xy = -302.664
+Contraintes pour l'élément 300:
+Sigma_x = -325.765, Sigma_y = -126.753, Tau_xy = 140.701
+Contraintes pour l'élément 301:
+Sigma_x = 174.534, Sigma_y = -385.627, Tau_xy = -313.717
+Contraintes pour l'élément 302:
+Sigma_x = -256.685, Sigma_y = -112.347, Tau_xy = -264.328
+Contraintes pour l'élément 303:
+Sigma_x = -409.894, Sigma_y = -210.894, Tau_xy = 2215.62
+Contraintes pour l'élément 304:
+Sigma_x = 111.268, Sigma_y = 77.9901, Tau_xy = -247.645
+Contraintes pour l'élément 305:
+Sigma_x = -325.765, Sigma_y = 151.457, Tau_xy = -491.331
+Contraintes pour l'élément 306:
+Sigma_x = 881.176, Sigma_y = -408.49, Tau_xy = 114.135
+Contraintes pour l'élément 307:
+Sigma_x = -271.498, Sigma_y = 1936.01, Tau_xy = -292.048
+Contraintes pour l'élément 308:
+Sigma_x = 135.532, Sigma_y = -132.747, Tau_xy = 204.258
+Contraintes pour l'élément 309:
+Sigma_x = -312.934, Sigma_y = -408.961, Tau_xy = 107.13
+Contraintes pour l'élément 310:
+Sigma_x = -319.23, Sigma_y = -343.222, Tau_xy = -301.62
+Contraintes pour l'élément 311:
+Sigma_x = 1219.07, Sigma_y = 180.293, Tau_xy = -384.807
+Contraintes pour l'élément 312:
+Sigma_x = -271.498, Sigma_y = -61.8936, Tau_xy = -247.645
+Contraintes pour l'élément 313:
+Sigma_x = 883.91, Sigma_y = 180.652, Tau_xy = 1962.9
+Contraintes pour l'élément 314:
+Sigma_x = -305.37, Sigma_y = -364.227, Tau_xy = 152.804
+Contraintes pour l'élément 315:
+Sigma_x = 83.9179, Sigma_y = -132.747, Tau_xy = -301.382
+Contraintes pour l'élément 316:
+Sigma_x = -235.894, Sigma_y = 1508.57, Tau_xy = 133.108
+Contraintes pour l'élément 317:
+Sigma_x = -331.585, Sigma_y = 151.359, Tau_xy = -143.682
+Contraintes pour l'élément 318:
+Sigma_x = 158.632, Sigma_y = -365.654, Tau_xy = -491.331
+Contraintes pour l'élément 319:
+Sigma_x = -305.37, Sigma_y = -145.385, Tau_xy = 152.804
+Contraintes pour l'élément 320:
+Sigma_x = 1088.55, Sigma_y = -119.94, Tau_xy = 1801.05
+Contraintes pour l'élément 321:
+Sigma_x = -323.314, Sigma_y = -185.649, Tau_xy = -296.889
+Contraintes pour l'élément 322:
+Sigma_x = -399.936, Sigma_y = 1531, Tau_xy = 32.3216
+Contraintes pour l'élément 323:
+Sigma_x = 145.862, Sigma_y = -140.429, Tau_xy = -450.578
+Contraintes pour l'élément 324:
+Sigma_x = 100.977, Sigma_y = -355.741, Tau_xy = 160.922
+Contraintes pour l'élément 325:
+Sigma_x = -341.113, Sigma_y = 1985.56, Tau_xy = 114.874
+Contraintes pour l'élément 326:
+Sigma_x = -323.314, Sigma_y = -322.136, Tau_xy = 310.856
+Contraintes pour l'élément 327:
+Sigma_x = 935.429, Sigma_y = -154.977, Tau_xy = -251.423
+Contraintes pour l'élément 328:
+Sigma_x = -341.088, Sigma_y = -439.903, Tau_xy = 186.798
+Contraintes pour l'élément 329:
+Sigma_x = 141.643, Sigma_y = -53.1373, Tau_xy = -355.439
+Contraintes pour l'élément 330:
+Sigma_x = -277.516, Sigma_y = -439.794, Tau_xy = 161.447
+Contraintes pour l'élément 331:
+Sigma_x = 980.084, Sigma_y = -231.219, Tau_xy = 1902.78
+Contraintes pour l'élément 332:
+Sigma_x = -349.365, Sigma_y = -145.955, Tau_xy = -683.768
+Contraintes pour l'élément 333:
+Sigma_x = -341.088, Sigma_y = -343.094, Tau_xy = 386.9
+Contraintes pour l'élément 334:
+Sigma_x = 1152.73, Sigma_y = 1806.48, Tau_xy = 203.632
+Contraintes pour l'élément 335:
+Sigma_x = -318.41, Sigma_y = -365.31, Tau_xy = -269.671
+Contraintes pour l'élément 336:
+Sigma_x = -459.969, Sigma_y = -146.937, Tau_xy = -225.091
+Contraintes pour l'élément 337:
+Sigma_x = 113.796, Sigma_y = -411.096, Tau_xy = -133.846
+Contraintes pour l'élément 338:
+Sigma_x = -479.731, Sigma_y = -121.162, Tau_xy = 140.508
+Contraintes pour l'élément 339:
+Sigma_x = 135.471, Sigma_y = 195.443, Tau_xy = -536.011
+Contraintes pour l'élément 340:
+Sigma_x = -318.41, Sigma_y = -307.8, Tau_xy = 1786.59
+Contraintes pour l'élément 341:
+Sigma_x = 1174.28, Sigma_y = -126.753, Tau_xy = -111.939
+Contraintes pour l'élément 342:
+Sigma_x = -326.359, Sigma_y = -365.31, Tau_xy = 161.36
+Contraintes pour l'élément 343:
+Sigma_x = -454.065, Sigma_y = 1561.71, Tau_xy = 2008.28
+Contraintes pour l'élément 344:
+Sigma_x = 116.953, Sigma_y = -342.489, Tau_xy = 215.994
+Contraintes pour l'élément 345:
+Sigma_x = -301.463, Sigma_y = -112.557, Tau_xy = -222.001
+Contraintes pour l'élément 346:
+Sigma_x = 1158.44, Sigma_y = 161.519, Tau_xy = 178.121
+Contraintes pour l'élément 347:
+Sigma_x = -326.359, Sigma_y = -228.074, Tau_xy = -335.543
+Contraintes pour l'élément 348:
+Sigma_x = 915.996, Sigma_y = -556.104, Tau_xy = -99.2798
+Contraintes pour l'élément 349:
+Sigma_x = -330.191, Sigma_y = 83.8818, Tau_xy = -111.939
+Contraintes pour l'élément 350:
+Sigma_x = 152.571, Sigma_y = -146.937, Tau_xy = 1755.91
+Contraintes pour l'élément 351:
+Sigma_x = -312.43, Sigma_y = -342.489, Tau_xy = -202.221
+Contraintes pour l'élément 352:
+Sigma_x = -316.965, Sigma_y = 1357.53, Tau_xy = -336.474
+Contraintes pour l'élément 353:
+Sigma_x = 124.802, Sigma_y = -365.42, Tau_xy = 224.049
+Contraintes pour l'élément 354:
+Sigma_x = -330.191, Sigma_y = -149.921, Tau_xy = 170.154
+Contraintes pour l'élément 355:
+Sigma_x = 1086.43, Sigma_y = 150.064, Tau_xy = -340.853
+Contraintes pour l'élément 356:
+Sigma_x = -262.72, Sigma_y = -236.432, Tau_xy = -324.658
+Contraintes pour l'élément 357:
+Sigma_x = -447.478, Sigma_y = -430.048, Tau_xy = 1597.02
+Contraintes pour l'élément 358:
+Sigma_x = 57.4459, Sigma_y = 1667.55, Tau_xy = -343.952
+Contraintes pour l'élément 359:
+Sigma_x = 104.062, Sigma_y = -408.961, Tau_xy = -321.043
+Contraintes pour l'élément 360:
+Sigma_x = -320.157, Sigma_y = 151.359, Tau_xy = 171.982
+Contraintes pour l'élément 361:
+Sigma_x = -262.72, Sigma_y = 1487.7, Tau_xy = -111.112
+Contraintes pour l'élément 362:
+Sigma_x = 855.886, Sigma_y = -144.738, Tau_xy = 2004.04
+Contraintes pour l'élément 363:
+Sigma_x = -299.476, Sigma_y = -142.073, Tau_xy = -138.184
+Contraintes pour l'élément 364:
+Sigma_x = 99.577, Sigma_y = 155.262, Tau_xy = -343.952
+Contraintes pour l'élément 365:
+Sigma_x = -247.392, Sigma_y = -247.488, Tau_xy = 1534.33
+Contraintes pour l'élément 366:
+Sigma_x = 1216.64, Sigma_y = -384.902, Tau_xy = 164.195
+Contraintes pour l'élément 367:
+Sigma_x = -342.186, Sigma_y = 111.518, Tau_xy = -352.948
+Contraintes pour l'élément 368:
+Sigma_x = -299.476, Sigma_y = -365.654, Tau_xy = -152.32
+Contraintes pour l'élément 369:
+Sigma_x = 1116.11, Sigma_y = -144.738, Tau_xy = -110.746
+Contraintes pour l'élément 370:
+Sigma_x = -314.735, Sigma_y = 2087.57, Tau_xy = 339.141
+Contraintes pour l'élément 371:
+Sigma_x = -409.894, Sigma_y = -343.17, Tau_xy = -529.654
+Contraintes pour l'élément 372:
+Sigma_x = 111.268, Sigma_y = -136.57, Tau_xy = -423.62
+Contraintes pour l'élément 373:
+Sigma_x = 151.715, Sigma_y = -433.059, Tau_xy = 164.195
+Contraintes pour l'élément 374:
+Sigma_x = -316.523, Sigma_y = -128.544, Tau_xy = 1877.6
+Contraintes pour l'élément 375:
+Sigma_x = -314.735, Sigma_y = -332.794, Tau_xy = -147.805
+Contraintes pour l'élément 376:
+Sigma_x = 894.245, Sigma_y = -347.512, Tau_xy = -434.414
+Contraintes pour l'élément 377:
+Sigma_x = -319.23, Sigma_y = -343.222, Tau_xy = -301.7
+Contraintes pour l'élément 378:
+Sigma_x = 150.55, Sigma_y = -142.073, Tau_xy = 169.993
+Contraintes pour l'élément 379:
+Sigma_x = -303.009, Sigma_y = 1875.08, Tau_xy = -164.002
+Contraintes pour l'élément 380:
+Sigma_x = -332.103, Sigma_y = -403.243, Tau_xy = 140.948
+Contraintes pour l'élément 381:
+Sigma_x = 863.621, Sigma_y = -315.535, Tau_xy = -352.948
+Contraintes pour l'élément 382:
+Sigma_x = -319.23, Sigma_y = -134.509, Tau_xy = -147.805
+Contraintes pour l'élément 383:
+Sigma_x = 1219.07, Sigma_y = -238.419, Tau_xy = 1490.16
+Contraintes pour l'élément 384:
+Sigma_x = -331.991, Sigma_y = -175.297, Tau_xy = 164.674
+Contraintes pour l'élément 385:
+Sigma_x = -471.982, Sigma_y = -404.891, Tau_xy = -329.132
+Contraintes pour l'élément 386:
+Sigma_x = 97.6759, Sigma_y = -145.385, Tau_xy = -365.544
+Contraintes pour l'élément 387:
+Sigma_x = -316.779, Sigma_y = -343.17, Tau_xy = 178.419
+Contraintes pour l'élément 388:
+Sigma_x = 128.462, Sigma_y = 1803.33, Tau_xy = -332.601
+Contraintes pour l'élément 389:
+Sigma_x = -331.991, Sigma_y = -371.304, Tau_xy = -187.786
+Contraintes pour l'élément 390:
+Sigma_x = 916.916, Sigma_y = -149.04, Tau_xy = -507.196
+Contraintes pour l'élément 391:
+Sigma_x = -331.585, Sigma_y = -408.384, Tau_xy = -434.414
+Contraintes pour l'élément 392:
+Sigma_x = 158.632, Sigma_y = -115.787, Tau_xy = 164.674
+Contraintes pour l'élément 393:
+Sigma_x = -332.911, Sigma_y = 1842.94, Tau_xy = 1765.42
+Contraintes pour l'élément 394:
+Sigma_x = 107.13, Sigma_y = -256.889, Tau_xy = -182.924
+Contraintes pour l'élément 395:
+Sigma_x = -317.28, Sigma_y = -136.57, Tau_xy = -37.7058
+Contraintes pour l'élément 396:
+Sigma_x = -331.585, Sigma_y = -371.304, Tau_xy = 182.545
+Contraintes pour l'élément 397:
+Sigma_x = 1266.29, Sigma_y = 1530.79, Tau_xy = 73.0316
+Contraintes pour l'élément 398:
+Sigma_x = -341.113, Sigma_y = 150.161, Tau_xy = 2527.15
+Contraintes pour l'élément 399:
+Sigma_x = -504.917, Sigma_y = -378.017, Tau_xy = -301.7
+Contraintes pour l'élément 400:
+Sigma_x = 100.977, Sigma_y = -146.059, Tau_xy = -182.924
+Contraintes pour l'élément 401:
+Sigma_x = 898.608, Sigma_y = -120.267, Tau_xy = 2090.78
+Contraintes pour l'élément 402:
+Sigma_x = -307.514, Sigma_y = -90.8137, Tau_xy = -481.315
+Contraintes pour l'élément 403:
+Sigma_x = -341.113, Sigma_y = -380.481, Tau_xy = -540.725
+Contraintes pour l'élément 404:
+Sigma_x = 1280.01, Sigma_y = -433.059, Tau_xy = -263.608
+Contraintes pour l'élément 405:
+Sigma_x = -356.647, Sigma_y = 150.161, Tau_xy = 5.62257
+Contraintes pour l'élément 406:
+Sigma_x = -516.884, Sigma_y = 2002.66, Tau_xy = -432.508
+Contraintes pour l'élément 407:
+Sigma_x = 137.486, Sigma_y = -135.652, Tau_xy = 38.3116
+Contraintes pour l'élément 408:
+Sigma_x = -426.847, Sigma_y = -420.078, Tau_xy = -215.432
+Contraintes pour l'élément 409:
+Sigma_x = 80.0039, Sigma_y = -146.007, Tau_xy = -37.7058
+Contraintes pour l'élément 410:
+Sigma_x = -356.647, Sigma_y = -101.535, Tau_xy = -481.315
+Contraintes pour l'élément 411:
+Sigma_x = 980.084, Sigma_y = -328.039, Tau_xy = 2335.07
+Contraintes pour l'élément 412:
+Sigma_x = -349.365, Sigma_y = -90.8137, Tau_xy = -441.164
+Contraintes pour l'élément 413:
+Sigma_x = 141.581, Sigma_y = -378.017, Tau_xy = -405.078
+Contraintes pour l'élément 414:
+Sigma_x = -323.033, Sigma_y = -135.652, Tau_xy = -134.634
+Contraintes pour l'élément 415:
+Sigma_x = -399.946, Sigma_y = 2059.42, Tau_xy = 35.3697
+Contraintes pour l'élément 416:
+Sigma_x = 984.854, Sigma_y = -355.193, Tau_xy = -302.708
+Contraintes pour l'élément 417:
+Sigma_x = -349.365, Sigma_y = -134.365, Tau_xy = 1720.7
+Contraintes pour l'élément 418:
+Sigma_x = 1153.22, Sigma_y = -410.625, Tau_xy = -198.895
+Contraintes pour l'élément 419:
+Sigma_x = -314.007, Sigma_y = -104.591, Tau_xy = 176.217
+Contraintes pour l'élément 420:
+Sigma_x = -479.731, Sigma_y = -397.686, Tau_xy = 120.13
+Contraintes pour l'élément 421:
+Sigma_x = 135.471, Sigma_y = 1984.83, Tau_xy = -62.9736
+Contraintes pour l'élément 422:
+Sigma_x = -348.776, Sigma_y = -146.059, Tau_xy = -441.164
+Contraintes pour l'élément 423:
+Sigma_x = -473.152, Sigma_y = -355.193, Tau_xy = 1931.12
+Contraintes pour l'élément 424:
+Sigma_x = -314.007, Sigma_y = 1955.99, Tau_xy = 165.383
+Contraintes pour l'élément 425:
+Sigma_x = 887.365, Sigma_y = -345.761, Tau_xy = -249.95
+Contraintes pour l'élément 426:
+Sigma_x = -301.463, Sigma_y = -94.2057, Tau_xy = 52.2491
+Contraintes pour l'élément 427:
+Sigma_x = 143.071, Sigma_y = -486.017, Tau_xy = -566.69
+Contraintes pour l'élément 428:
+Sigma_x = -287.852, Sigma_y = -212.791, Tau_xy = -405.078
+Contraintes pour l'élément 429:
+Sigma_x = 173.234, Sigma_y = -171.759, Tau_xy = 165.383
+Contraintes pour l'élément 430:
+Sigma_x = -373.431, Sigma_y = -339.893, Tau_xy = 2489.31
+Contraintes pour l'élément 431:
+Sigma_x = -301.463, Sigma_y = -134.365, Tau_xy = -613.601
+Contraintes pour l'élément 432:
+Sigma_x = 1158.44, Sigma_y = -345.761, Tau_xy = -496.076
+Contraintes pour l'élément 433:
+Sigma_x = -316.779, Sigma_y = 1474.74, Tau_xy = -50.8663
+Contraintes pour l'élément 434:
+Sigma_x = -434.03, Sigma_y = 150.521, Tau_xy = -67.6651
+Contraintes pour l'élément 435:
+Sigma_x = 98.5054, Sigma_y = -362.197, Tau_xy = 93.5459
+Contraintes pour l'élément 436:
+Sigma_x = 1194.49, Sigma_y = -137.298, Tau_xy = 2197.5
+Contraintes pour l'élément 437:
+Sigma_x = -345.503, Sigma_y = -149.819, Tau_xy = 142.14
+Contraintes pour l'élément 438:
+Sigma_x = -316.779, Sigma_y = -407.765, Tau_xy = -613.601
+Contraintes pour l'élément 439:
+Sigma_x = 916.107, Sigma_y = 163.745, Tau_xy = 1700.7
+Contraintes pour l'élément 440:
+Sigma_x = -316.965, Sigma_y = -410.625, Tau_xy = -258.284
+Contraintes pour l'élément 441:
+Sigma_x = 124.802, Sigma_y = 150.521, Tau_xy = -317.753
+Contraintes pour l'élément 442:
+Sigma_x = -295.601, Sigma_y = 2026.43, Tau_xy = 131.113
+Contraintes pour l'élément 443:
+Sigma_x = 145.148, Sigma_y = -140.558, Tau_xy = -119.621
+Contraintes pour l'élément 444:
+Sigma_x = -318.178, Sigma_y = -167.754, Tau_xy = 203.192
+Contraintes pour l'élément 445:
+Sigma_x = -316.965, Sigma_y = -448.269, Tau_xy = -836.36
+Contraintes pour l'élément 446:
+Sigma_x = 1163.74, Sigma_y = -79.2215, Tau_xy = -134.634
+Contraintes pour l'élément 447:
+Sigma_x = -320.157, Sigma_y = 123.968, Tau_xy = -496.076
+Contraintes pour l'élément 448:
+Sigma_x = -447.282, Sigma_y = 111.579, Tau_xy = 2372.72
+Contraintes pour l'élément 449:
+Sigma_x = 104.062, Sigma_y = -362.197, Tau_xy = -410.204
+Contraintes pour l'élément 450:
+Sigma_x = -325.215, Sigma_y = -140.558, Tau_xy = 292.939
+Contraintes pour l'élément 451:
+Sigma_x = 1146.4, Sigma_y = 2055.76, Tau_xy = -255.287
+Contraintes pour l'élément 452:
+Sigma_x = -320.157, Sigma_y = -340.471, Tau_xy = 130.211
+Contraintes pour l'élément 453:
+Sigma_x = 914.573, Sigma_y = -133.653, Tau_xy = -172.212
+Contraintes pour l'élément 454:
+Sigma_x = -325.515, Sigma_y = -416.419, Tau_xy = -438.574
+Contraintes pour l'élément 455:
+Sigma_x = 140.398, Sigma_y = -115.62, Tau_xy = -152.32
+Contraintes pour l'élément 456:
+Sigma_x = -305.287, Sigma_y = -405.202, Tau_xy = -329.132
+Contraintes pour l'élément 457:
+Sigma_x = -321.761, Sigma_y = 1742.63, Tau_xy = 1879.93
+Contraintes pour l'élément 458:
+Sigma_x = 149.763, Sigma_y = -137.298, Tau_xy = -408.54
+Contraintes pour l'élément 459:
+Sigma_x = -325.515, Sigma_y = -340.471, Tau_xy = -224.265
+Contraintes pour l'élément 460:
+Sigma_x = 1216.64, Sigma_y = 1361.55, Tau_xy = -124.634
+Contraintes pour l'élément 461:
+Sigma_x = -342.186, Sigma_y = -364.95, Tau_xy = 1697.14
+Contraintes pour l'élément 462:
+Sigma_x = -476.057, Sigma_y = -140.549, Tau_xy = -334.014
+Contraintes pour l'élément 463:
+Sigma_x = 130.647, Sigma_y = 130.985, Tau_xy = -226.826
+Contraintes pour l'élément 464:
+Sigma_x = 97.1355, Sigma_y = -227.275, Tau_xy = -416.125
+Contraintes pour l'élément 465:
+Sigma_x = -312.899, Sigma_y = 176.618, Tau_xy = 163.479
+Contraintes pour l'élément 466:
+Sigma_x = -342.186, Sigma_y = -175.908, Tau_xy = 92.1874
+Contraintes pour l'élément 467:
+Sigma_x = 955.292, Sigma_y = -133.653, Tau_xy = -5.26553
+Contraintes pour l'élément 468:
+Sigma_x = -350.477, Sigma_y = -364.95, Tau_xy = 1784.11
+Contraintes pour l'élément 469:
+Sigma_x = 151.715, Sigma_y = 1484.27, Tau_xy = 115.741
+Contraintes pour l'élément 470:
+Sigma_x = -316.523, Sigma_y = -336.406, Tau_xy = 178.707
+Contraintes pour l'élément 471:
+Sigma_x = 1318.38, Sigma_y = 152.43, Tau_xy = 36.4684
+Contraintes pour l'élément 472:
+Sigma_x = -449.416, Sigma_y = -375.079, Tau_xy = 163.745
+Contraintes pour l'élément 473:
+Sigma_x = -350.477, Sigma_y = 187.335, Tau_xy = -553.488
+Contraintes pour l'élément 474:
+Sigma_x = 1231.62, Sigma_y = -338.401, Tau_xy = -253.245
+Contraintes pour l'élément 475:
+Sigma_x = -332.103, Sigma_y = 55.9612, Tau_xy = 1631.71
+Contraintes pour l'élément 476:
+Sigma_x = -497.032, Sigma_y = -140.549, Tau_xy = 19.1866
+Contraintes pour l'élément 477:
+Sigma_x = 84.3138, Sigma_y = -336.406, Tau_xy = -197.786
+Contraintes pour l'élément 478:
+Sigma_x = 212.473, Sigma_y = 1845.98, Tau_xy = 121.24
+Contraintes pour l'élément 479:
+Sigma_x = -404.304, Sigma_y = -397.042, Tau_xy = 133.731
+Contraintes pour l'élément 480:
+Sigma_x = -332.103, Sigma_y = -339.969, Tau_xy = 162.834
+Contraintes pour l'élément 481:
+Sigma_x = 863.621, Sigma_y = -126.413, Tau_xy = 31.2826
+Contraintes pour l'élément 482:
+Sigma_x = -271.419, Sigma_y = -232.011, Tau_xy = -416.056
+Contraintes pour l'élément 483:
+Sigma_x = 156.868, Sigma_y = -411.391, Tau_xy = 76.4884
+Contraintes pour l'élément 484:
+Sigma_x = -354.21, Sigma_y = -216.124, Tau_xy = -304.598
+Contraintes pour l'élément 485:
+Sigma_x = -332.581, Sigma_y = -416.419, Tau_xy = 177.189
+Contraintes pour l'élément 486:
+Sigma_x = 1276.92, Sigma_y = 152.43, Tau_xy = 1824.64
+Contraintes pour l'élément 487:
+Sigma_x = -271.419, Sigma_y = 1940.05, Tau_xy = 69.2378
+Contraintes pour l'élément 488:
+Sigma_x = 858.6, Sigma_y = -135.037, Tau_xy = 2170.49
+Contraintes pour l'élément 489:
+Sigma_x = -316.779, Sigma_y = -409.597, Tau_xy = -130.757
+Contraintes pour l'élément 490:
+Sigma_x = 128.462, Sigma_y = -342.317, Tau_xy = 170.193
+Contraintes pour l'élément 491:
+Sigma_x = -279.255, Sigma_y = 184.997, Tau_xy = -259.664
+Contraintes pour l'élément 492:
+Sigma_x = -408.703, Sigma_y = 2305.15, Tau_xy = -94.4388
+Contraintes pour l'élément 493:
+Sigma_x = -558.408, Sigma_y = -111.607, Tau_xy = -177.56
+Contraintes pour l'élément 494:
+Sigma_x = -316.779, Sigma_y = -375.079, Tau_xy = -321.043
+Contraintes pour l'élément 495:
+Sigma_x = 1174.9, Sigma_y = -135.037, Tau_xy = 1874.99
+Contraintes pour l'élément 496:
+Sigma_x = -317.28, Sigma_y = 1513.11, Tau_xy = -254.83
+Contraintes pour l'élément 497:
+Sigma_x = -460.148, Sigma_y = 155.721, Tau_xy = 231.398
+Contraintes pour l'élément 498:
+Sigma_x = 107.13, Sigma_y = -362.706, Tau_xy = -172.136
+Contraintes pour l'élément 499:
+Sigma_x = 112.102, Sigma_y = -96.1545, Tau_xy = 168.665
+Contraintes pour l'élément 500:
+Sigma_x = -202.887, Sigma_y = -170.135, Tau_xy = 171.982
+Contraintes pour l'élément 501:
+Sigma_x = -317.28, Sigma_y = -228.048, Tau_xy = -110.746
+Contraintes pour l'élément 502:
+Sigma_x = 908.96, Sigma_y = -593.945, Tau_xy = -408.54
+Contraintes pour l'élément 503:
+Sigma_x = -323.161, Sigma_y = -112.557, Tau_xy = -254.83
+Contraintes pour l'élément 504:
+Sigma_x = 140.701, Sigma_y = -365.42, Tau_xy = 1901.5
+Contraintes pour l'élément 505:
+Sigma_x = -301.62, Sigma_y = 1967.59, Tau_xy = 175.026
+Contraintes pour l'élément 506:
+Sigma_x = -421.094, Sigma_y = -342.123, Tau_xy = 7.75248
+Contraintes pour l'élément 507:
+Sigma_x = 1075.89, Sigma_y = -111.62, Tau_xy = -384.446
+Contraintes pour l'élément 508:
+Sigma_x = -323.161, Sigma_y = -353.79, Tau_xy = -181.671
+Contraintes pour l'élément 509:
+Sigma_x = 898.608, Sigma_y = -97.3065, Tau_xy = -189.146
+Contraintes pour l'élément 510:
+Sigma_x = -307.514, Sigma_y = -216.315, Tau_xy = 189.742
+Contraintes pour l'élément 511:
+Sigma_x = 144.062, Sigma_y = -247.895, Tau_xy = -386.161
+Contraintes pour l'élément 512:
+Sigma_x = -313.717, Sigma_y = -385.627, Tau_xy = -122.627
+Contraintes pour l'élément 513:
+Sigma_x = -294.98, Sigma_y = 161.519, Tau_xy = 2006.07
+Contraintes pour l'élément 514:
+Sigma_x = 142.447, Sigma_y = 1422.18, Tau_xy = -170.106
+Contraintes pour l'élément 515:
+Sigma_x = -307.514, Sigma_y = -149.887, Tau_xy = 164.863
+Contraintes pour l'élément 516:
+Sigma_x = 1058.58, Sigma_y = -131.672, Tau_xy = -49.6278
+Contraintes pour l'élément 517:
+Sigma_x = -259.869, Sigma_y = 181.634, Tau_xy = -364.006
+Contraintes pour l'élément 518:
+Sigma_x = -426.847, Sigma_y = -249.95, Tau_xy = 158.447
+Contraintes pour l'élément 519:
+Sigma_x = 80.0039, Sigma_y = 146.352, Tau_xy = -53.2562
+Contraintes pour l'élément 520:
+Sigma_x = 169.477, Sigma_y = -443.857, Tau_xy = -422.749
+Contraintes pour l'élément 521:
+Sigma_x = -354.509, Sigma_y = -149.921, Tau_xy = 2247.07
+Contraintes pour l'élément 522:
+Sigma_x = -259.869, Sigma_y = -342.123, Tau_xy = -297.48
+Contraintes pour l'élément 523:
+Sigma_x = 1253.1, Sigma_y = 1696.23, Tau_xy = -72.7745
+Contraintes pour l'élément 524:
+Sigma_x = -399.946, Sigma_y = -370.495, Tau_xy = -422.869
+Contraintes pour l'élément 525:
+Sigma_x = -409.282, Sigma_y = -363.172, Tau_xy = -521.212
+Contraintes pour l'élément 526:
+Sigma_x = 202.867, Sigma_y = -149.155, Tau_xy = 191.075
+Contraintes pour l'élément 527:
+Sigma_x = -364.893, Sigma_y = -72.9537, Tau_xy = -344.515
+Contraintes pour l'élément 528:
+Sigma_x = 1425.01, Sigma_y = -195.112, Tau_xy = -326.531
+Contraintes pour l'élément 529:
+Sigma_x = -399.946, Sigma_y = 1391.44, Tau_xy = -540.725
+Contraintes pour l'élément 530:
+Sigma_x = 984.854, Sigma_y = -111.62, Tau_xy = 1771.36
+Contraintes pour l'élément 531:
+Sigma_x = -316.779, Sigma_y = -370.495, Tau_xy = -67.1447
+Contraintes pour l'élément 532:
+Sigma_x = 163.535, Sigma_y = 1570.35, Tau_xy = -288.726
+Contraintes pour l'élément 533:
+Sigma_x = -352.843, Sigma_y = 141.366, Tau_xy = 166.124
+Contraintes pour l'élément 534:
+Sigma_x = -549.217, Sigma_y = -329.435, Tau_xy = -102.87
+Contraintes pour l'élément 535:
+Sigma_x = 305.14, Sigma_y = -120.837, Tau_xy = 102.774
+Contraintes pour l'élément 536:
+Sigma_x = -316.779, Sigma_y = -224.863, Tau_xy = -504.17
+Contraintes pour l'élément 537:
+Sigma_x = 1220.62, Sigma_y = 152.823, Tau_xy = -28.227
+Contraintes pour l'élément 538:
+Sigma_x = -348.776, Sigma_y = -213.783, Tau_xy = -408.068
+Contraintes pour l'élément 539:
+Sigma_x = -473.152, Sigma_y = 151.406, Tau_xy = 1758.17
+Contraintes pour l'élément 540:
+Sigma_x = 150.196, Sigma_y = -411.096, Tau_xy = -378.399
+Contraintes pour l'élément 541:
+Sigma_x = 2.19103, Sigma_y = 1857.06, Tau_xy = 83.5228
+Contraintes pour l'élément 542:
+Sigma_x = 1239.37, Sigma_y = -546.942, Tau_xy = 140.572
+Contraintes pour l'élément 543:
+Sigma_x = -348.776, Sigma_y = -362.194, Tau_xy = -383.727
+Contraintes pour l'élément 544:
+Sigma_x = 1232.67, Sigma_y = 178.574, Tau_xy = -375.918
+Contraintes pour l'élément 545:
+Sigma_x = -373.431, Sigma_y = 183.315, Tau_xy = 186.369
+Contraintes pour l'élément 546:
+Sigma_x = -482.226, Sigma_y = 90.2647, Tau_xy = -382.392
+Contraintes pour l'élément 547:
+Sigma_x = 173.234, Sigma_y = -367.294, Tau_xy = 1864.97
+Contraintes pour l'élément 548:
+Sigma_x = 1942.06, Sigma_y = -409.597, Tau_xy = -338.545
+Moyenne des contraintes pour la fibre :
+Sigma_x = 0.348396, Sigma_y = 13.074, Tau_xy = 24.379
